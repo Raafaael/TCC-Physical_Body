@@ -16,9 +16,9 @@ body{
     background: #e7e7e7;
 }
 
-.nav-logo{
-    font-size: 1.5rem;
-    font-weight: bold;
+.nav-logo img{
+    height: 4rem;
+    width: 4rem;
 }
 
 .topnav {
