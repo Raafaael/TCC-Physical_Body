@@ -29,8 +29,6 @@
   }
   
   main {
-    background: url("bg.jpg") no-repeat center center;
-    background-size: cover;
     height: 92vh;
   }
   
@@ -250,7 +248,7 @@
 }
 @media screen and (max-width: 900px){
     footer{
-        position: fixed;
+      Position: relative;
         bottom: 0px;
     }
     .main-content{
