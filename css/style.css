@@ -116,7 +116,7 @@
     position: fixed;
     bottom: 0px;
     width: 100%;
-    background: #111;
+    background: #23232e;
 }
 .main-content{
     display: flex;
@@ -148,7 +148,7 @@
     content: '';
     height: 2px;
     width: 100%;
-    background: #1a1a1a;
+    background: #23232e;
     top: -10px;
 }
 .left .content .social{
@@ -160,7 +160,7 @@
 .left .content .social a span{
     width: 40px;
     height: 40px;
-    background: #1a1a1a;
+    background: #23232e;
     text-align: center;
     line-height: 40px;
     border-radius: 5px;
@@ -175,7 +175,7 @@
 }
 .center .content .fas{
     font-size: 23px;
-    background: #1a1a1a;
+    background: #23232e;
     width: 45px;
     height: 45px ;
     line-height: 45px;
@@ -201,7 +201,7 @@
 .right form input, .right form textarea{
     width: 100%;
     font-size: 17px;
-    background: #151515;
+    background: #23232e;
     padding-left: 10px;
     border: 1px solid #222222;
 }
@@ -230,12 +230,12 @@
     transition: .3s;
 }
 .right form .btn button:hover{
-    background: #000;
+    background: #23232e;
 }
 .bottom .center{
     padding: 5px;
     font-size: 15px;
-    background: #151515;
+    background: #23232e;
     text-align: center;
 }
 .bottom .center span{
