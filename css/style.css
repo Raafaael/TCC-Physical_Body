@@ -173,29 +173,45 @@ main {
 
 
 
+.tabelas{
+  align-items: center;
+  text-align: center;
+}
+
 .container{
   padding: 50px;
-  background: yellow;
-  align-items: center;
+  background: #13315d;
+}
+
+.container h2{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container span{
+  color: blueviolet;
 }
 
 .tabelas-preco{
-  padding: 20px;
-  background: red;
-  display: flex;
-  height: 400px;
+  justify-content: space-evenly;
+  padding: 100px;
+  background: #13315d;
+  display: flex ;
+ 
 }
 .tabela-preco1{
+  overflow: hidden;
   border-radius: 20px;
   background: white;
   text-align: center;
-  overflow: hidden;
+  padding-bottom: 35px;
 }
 
 .header-preco{
   background: black;
   color: white;
-  padding: 10px;
+  padding: 20px;
 }
 
 .header-preco h2{
@@ -203,11 +219,9 @@ main {
 }
 
 .tabela-conteudo{
-  overflow: hidden;
   background: white;
   color: blueviolet;
   padding: 20px;
-  margin: auto;
 }
 
 .btn-assinar{
@@ -219,13 +233,13 @@ main {
   background: red;
   text-decoration: none;
   border-radius: 20px;
-  padding: 10px;
+  padding: 1rem;
   color: white;
 }
 
 .btn-assinar a:hover{
-  background: yellow;
-  color: black;
+  background: black;
+  transition: 0.7s;
 }
 
 
@@ -236,7 +250,7 @@ footer{
   position: relative;
   bottom: 0px;
   width: 100%;
-  background: #23232e;
+  background: black;
 }
 .main-content{
   display: flex;
