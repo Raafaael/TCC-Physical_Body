@@ -24,8 +24,9 @@ html {
 
 .main-frase{
   position: absolute;
-  top: 350px;
-  left: 500px;
+  top: 20rem;
+  left: 30rem;
+  right: 30rem;
   display: flex;
   justify-content: center;
   align-items: center;
