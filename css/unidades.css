@@ -1,0 +1,27 @@
+#unidades {
+    border-top: 1px solid #E86C11;
+    align-items: center;
+    color: black;
+  }
+  
+  #unidades h2 {
+    text-align: center;
+    color: #E86C11;
+    font-size: 30px;
+  }
+  
+  .box-unidades {
+    align-items: center;
+    padding-bottom: 2rem;
+  }
+  
+  .uni {
+    background: white;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .uni img {
+    width: 23rem;
+    height: 10rem;
+  }

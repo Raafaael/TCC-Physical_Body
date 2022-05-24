@@ -1,0 +1,28 @@
+#modalidades {
+    border-top: 1px solid #E86C11;
+    align-items: center;
+    padding-bottom: 2rem;
+    color: black;
+  }
+  
+  #modalidades h2 {
+    text-align: center;
+    color: #E86C11;
+    font-size: 30px;
+  }
+  
+  .box-modalidades {
+    align-items: center;
+    padding-bottom: 2rem;
+  }
+  
+  .modal {
+    background: white;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .modal img {
+    width: 20rem;
+    height: 10rem;
+  }
