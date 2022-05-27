@@ -31,12 +31,6 @@ main {
     flex-grow: 1;
 }
 
-header,
-main,
-footer {
-    flex-shrink: 0;
-}
-
 body {
     padding-bottom: 100px;
 }

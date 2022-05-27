@@ -37,26 +37,25 @@ footer {
   #contato p {
     font-size: 18px;
   }
+
+.contato-detalhes{
+  padding-top: 2%;
+  display: flex;
+  flex-direction: column;
+}
   
-  .contato-detalhes {
-    margin: 10px 0;
-    padding-top: 5%;
-  }
-  
-  .contato-detalhes a {
-    padding-top: 5%;
-  }
-  
-  .endereco-detalhes {
-    padding-top: 5%;
-  }
-  
+.contato-detalhes a {
+  padding-top: 1%;
+}
+
+.endereco-detalhes{
+  padding-top: 4%;
+}
+
+
   .sociallogos {
-    height: 100%;
-  }
-  
-  .sociallogos a {
-    top: 10rem;
+    display: flex;
+    flex-direction: column;
   }
   
   .sociallogos img {
