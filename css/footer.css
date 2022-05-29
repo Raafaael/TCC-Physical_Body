@@ -1,6 +1,7 @@
 footer {
     background: black;
     color: #ffffff;
+    position: relative;
   }
   
   footer a {
